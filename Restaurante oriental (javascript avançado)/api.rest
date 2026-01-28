@@ -1,0 +1,10 @@
+POST https://tech4japa.fly.dev/produtos
+Content-Type: application/json
+
+{
+  "nome": "Sushi Especial",
+  "restaurante": "Restaurante Oriental",
+  "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ22X0jFEc27bNEVhEnG2OBwnsFgmwddHGaGQ&s",
+  "produto": "Sushi",
+  "descricao": "Sushi tradicional com arroz temperado e peixe fresco."
+}
